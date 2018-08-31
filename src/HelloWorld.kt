@@ -1,7 +1,7 @@
 ///-----Initialize public Variable-----//
 //----Val is a keyword for constant value which cant be changes (Here with value)---//
 
-//----Constant Value---//
+//----Constant Value or Immutable string---//
 val num1 : Int = 10
 val num2 : Int = 20
 
@@ -22,7 +22,7 @@ fun additon() {
     val sum : Int
     sum = num1 + num2
     //---Print output---//
-    println("Additional Result is: "+sum)
+    println("Additional Result is: $sum")
 
 }
 
@@ -33,7 +33,7 @@ fun subtraction() {
     val sum : Int;
     sum = num1 - num2
     //---Print output---//
-    println("subtraction Result is: "+sum)
+    println("subtraction Result is: $sum")
 
 }
 
@@ -44,7 +44,7 @@ fun multiply() {
     val sum : Int
     sum = num1 * num2
     //---Print output---//
-    println("multiplication Result is: "+sum)
+    println("multiplication Result is: $sum")
 
 }
 
@@ -55,6 +55,6 @@ fun division() {
     val sum : Int
     sum = num1 / num2
     //---Print output---//
-    println("divisional Result is: "+sum)
+    println("divisional Result is: $sum")
 
 }
