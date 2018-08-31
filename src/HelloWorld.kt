@@ -1,5 +1,7 @@
 ///-----Initialize public Variable-----//
 //----Val is a keyword for constant value which cant be changes (Here with value)---//
+
+//----Constant Value---//
 val num1 : Int = 10
 val num2 : Int = 20
 
