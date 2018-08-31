@@ -24,7 +24,7 @@ fun additon() {
 
 }
 
-//-----2 number additional fuction----///
+//-----2 number subtractional fuction----///
 fun subtraction() {
 
     //----variable diclaration with out value---//
@@ -35,7 +35,7 @@ fun subtraction() {
 
 }
 
-//-----2 number additional fuction----///
+//-----2 number multiplicational fuction----///
 fun multiply() {
 
     //----variable diclaration with out value---//
@@ -46,7 +46,7 @@ fun multiply() {
 
 }
 
-//-----2 number additional fuction----///
+//-----2 number divisional fuction----///
 fun division() {
 
     //----variable diclaration with out value---//
